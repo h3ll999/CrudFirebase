@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "163576965453",
+    "firebase_url": "https://crud-fa955.firebaseio.com",
+    "project_id": "crud-fa955",
+    "storage_bucket": "crud-fa955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163576965453:android:10e0e45d65310729",
+        "android_client_info": {
+          "package_name": "ivan.com.br.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163576965453-749umbh7otierfn9lvcf557g6i7vu3k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjRwrGDoiQRFHW0lKEfAH455l4G-4nCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
